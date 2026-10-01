@@ -1,7 +1,8 @@
 {
-  "version": "1.0.0",
+  "launcherVersion": "1.0.0",
+  "gameVersion": "5.2.1+1912162014",
   "apkUrl": "https://raw.githubusercontent.com/CrowZeroW/durango-launcher-update/main/app-debug.apk",
   "fileName": "app-debug.apk",
-  "fileSize": 25709209,
-  "sha256": "6cd0fa418aa063bf9f87679e7855fabfce64879046c4fd381177150c422004ac"
+  "fileSize": 0,
+  "sha256": ""
 }
